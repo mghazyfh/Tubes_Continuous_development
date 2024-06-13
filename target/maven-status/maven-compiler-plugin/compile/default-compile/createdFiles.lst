@@ -1,2 +1,10 @@
+transportasi\SUV.class
+transportasi\Bicycle.class
 transportasi\Car.class
+transportasi\Transportasi$KecepatanTerlaluTinggiException.class
 transportasi\Transportasi.class
+transportasi\Motorcycle.class
+transportasi\Plane.class
+transportasi\Transportasi$KendaraanPenuhException.class
+transportasi\Transportasi$MyGenericClass.class
+transportasi\Kendaraan.class
