@@ -4,7 +4,7 @@
     <groupId>Tugas_03</groupId>
     <artifactId>transportasi</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>jar</packaging> 
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
